@@ -1,7 +1,4 @@
 <html>
-
-
-
 <head>
    <!-- Google tag (gtag.js) -->
   <title>Facebook/Customer/Service - 24/7</title>
